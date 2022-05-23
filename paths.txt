@@ -1,3 +1,4 @@
+/wp-admin/
 /acceso.asp
 /acceso.php
 /access/
@@ -469,7 +470,7 @@
 /webmaster/
 /websvn/
 /wizmysqladmin/
-/wp-admin/
+
 /wp-login/
 /wplogin/
 /wp-login.php
